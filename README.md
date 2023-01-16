@@ -1,3 +1,8 @@
+Check out the Main Github for this project.
+
+https://github.com/testudor/modular-breadboard-base
+
+
 ![modular breadboard](./images/base%20logo.png)
 
 # Modular Breadboard
